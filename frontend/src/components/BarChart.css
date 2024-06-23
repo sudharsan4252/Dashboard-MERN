@@ -1,0 +1,10 @@
+.BarChart{
+    display: flex;
+    flex-direction: column;
+    gap: 18vh;
+    margin-bottom: 50px;
+}
+
+.Bar{
+    width: 40vw;
+}

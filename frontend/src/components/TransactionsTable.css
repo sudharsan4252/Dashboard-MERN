@@ -1,0 +1,17 @@
+.table{
+    width: 100%;
+        border-collapse: collapse;
+        height: 500px;
+}
+.transcation-table{
+    max-height: 450px;
+    overflow-y: auto;
+    position: relative;
+    border: grey solid 1px;
+}
+.table thead {
+    background-color: #f2f2f2;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
